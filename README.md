@@ -1,5 +1,5 @@
 # 💫 About Me:
-“Aspiring full-stack developer,<br> passionate about coding, problem-solving,<br> and building web applications. <br>Eager to learn and grow through hands-on projects and collaboration.”<br>
+“Aspiring full-stack developer,passionate about coding, problem-solving,and building web applications. <br>Eager to learn and grow through hands-on projects and collaboration.”<br>
 
 
 ## 🌐 Socials:
